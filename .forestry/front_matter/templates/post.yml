@@ -8,13 +8,8 @@ fields:
     required: false
   label: title
 - name: published
-  type: text
-  config:
-    required: false
-  label: published
-- name: published2
   type: boolean
-  label: published2
+  label: published
 - name: tags
   type: tag_list
   default:
