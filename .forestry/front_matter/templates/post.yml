@@ -16,3 +16,5 @@ fields:
   - gsoc19
   - gsoc
   label: tags
+pages:
+- _posts/week-0-the-open-source-journey-begins-copy.md
