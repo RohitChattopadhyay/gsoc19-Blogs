@@ -12,3 +12,12 @@ fields:
   config:
     required: false
   label: published
+- name: published2
+  type: boolean
+  label: published2
+- name: tags
+  type: tag_list
+  default:
+  - gsoc19
+  - gsoc
+  label: tags
